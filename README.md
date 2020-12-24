@@ -19,5 +19,5 @@ For more informaion about PCB fabrication visit JLCPCB - <a href="https://jlcpcb
 | ![front](https://github.com/andrebla/christmasornament/blob/main/images/christmasornament_front.png) | 
 | - |
 
-| ![back](https://github.com/andrebla/christmasornament/blob/main/images/christmasornament_back.png)|
-| - | - |
+| ![back](https://github.com/andrebla/christmasornament/blob/main/images/christmasornament_back.png) |
+| - |
